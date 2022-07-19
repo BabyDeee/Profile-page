@@ -61,8 +61,8 @@ body{font-family: 'Inter', sans-serif;}
     .p-container{
         width: 75% !important;
     }
-    .imagesp{
-        height: 160px !important;
+    .recruiter-info{
+        height: 60vh !important;
     }
 }
 @media(max-width: 426px){
@@ -72,7 +72,7 @@ body{font-family: 'Inter', sans-serif;}
     .btn a{
         width: 40% !important;
     }
-    .imagesp{
-        height: 120px !important;
+    .recruiter-info{
+        height: 77vh !important;
     }
 }
