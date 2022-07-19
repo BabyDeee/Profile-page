@@ -42,7 +42,11 @@ body{font-family: 'Inter', sans-serif;}
     width: 100%;
 }
 .blue{
-    background-color: #2776EA;
+    background-color: #2776EA !important;
+    color: #fff;
+}
+.blue:hover{
+    color: #fff;
 }
 .btn a{
     width: 40% !important;
@@ -64,12 +68,12 @@ body{font-family: 'Inter', sans-serif;}
     .p-container{
         width: 75% !important;
     }
-    .recruiter-info{
+    /* .recruiter-info{
         height: 60vh !important;
-    }
-    .image1{
+    } */
+    /* .image1{
         height: auto !important;
-    }
+    } */
 }
 @media(max-width: 426px){
     .p-container{
@@ -78,7 +82,7 @@ body{font-family: 'Inter', sans-serif;}
     .btn a{
         width: 40% !important;
     }
-    .recruiter-info{
+    /* .recruiter-info{
         height: 73vh !important;
-    }
+    } */
 }
