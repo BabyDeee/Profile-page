@@ -41,6 +41,9 @@ body{font-family: 'Inter', sans-serif;}
     height: 100%;
     width: 100%;
 }
+.blue{
+    background-color: #2776EA;
+}
 .btn a{
     width: 40% !important;
 }
@@ -63,6 +66,9 @@ body{font-family: 'Inter', sans-serif;}
     }
     .recruiter-info{
         height: 60vh !important;
+    }
+    .image1{
+        height: auto !important;
     }
 }
 @media(max-width: 426px){
